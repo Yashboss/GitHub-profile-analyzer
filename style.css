@@ -1,0 +1,28 @@
+.avatar{
+    width:100%;
+    margin:0% 2% 3% 6%;
+}
+.profile_btn{
+    margin:0% 2% 2% 6%;
+}
+.panel{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.panel-title{
+    margin:2% 6%;
+    color:rgb(216, 194, 194);
+}
+.panel-heading{
+    background-color: rgb(28, 46, 14);
+}
+.panel-body{
+    background-color:rgba(23, 39, 34, 0.808);
+}
+.panel-badge{
+    background-color: rgba(36, 82, 82, 0.966);
+    height:30px;
+    font-size: 20px;
+}
+.repo-badge{
+    font-size: 15px;
+}
